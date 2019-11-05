@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1572761103706.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2364180350",
+    "id" : "7ED1AA09",
+    "lastKnownWriteTime" : 1572950419,
+    "last_content_update" : 1572950419136,
+    "path" : "~/HockeyHex/R/HockeyHex.R",
+    "project_path" : "R/HockeyHex.R",
+    "properties" : {
+        "cursorPosition" : "3,1",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

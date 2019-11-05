@@ -1,0 +1,92 @@
+name,team,league,primary,secondary,tertiary
+Anaheim Ducks,ANA,nhl,#C1C6C8,#532A44,#F47A38
+Arizona Coyotes,ARI,nhl,#8c2633,#E2d6b5,#154734
+Boston Bruins,BOS,nhl,#FFB81C,#000000,
+Buffalo Sabres,BUF,nhl,#002654,#fcb514,#ADAFAA
+Calgary Flames,CGY,nhl,#c8102E,#f1be48,#111111
+Carolina Hurricanes,CAR,nhl,#Cc0000,#a2aaad,#000000
+Chicago Blackhawks,CHI,nhl,#cf0A2c,#000000,
+Colorado Avalanche,COL,nhl,#6f263d,#A2AAAd,
+Columbus Blue Jackets,CBJ,nhl,#002654,#CE1126,#A4a9ad
+Dallas Stars,DAL,nhl,#006341,#8a8d8f,#111111
+Detroit Red Wings,DET,nhl,#ce1126,,
+Edmonton Oilers,EDM,nhl,#041e42,#c8102E,
+Florida Panthers,FLA,nhl,#041e42,#b9965B,
+Los Angeles Kings,L.A,nhl,#a2aaad,#111111,
+Minnesota Wild,MIN,nhl,#154734,#a6192E,#eaaa00
+Montreal Canadiens,MTL,nhl,#af1e2d,#192168,
+Nashville Predators,NSH,nhl,#ffb81c,#041e42,
+New Jersey Devils,N.J,nhl,#cell26,#000000,
+New York Islanders,NYI,nhl,#00539B,#f47d30,
+New York Rangers,NYR,nhl,#0038A8,#Ce1126,
+Ottawa Senators,OTT,nhl,#c52032,#c2912c,#000000
+Philadelphia Flyers,PHI,nhl,#f74904,#000000,
+Pittsburgh Penguins,PIT,nhl,#fcb514,#000000,
+San Jose Sharks,S.J,nhl,#006D75,#ea7200,#000000
+St Louis Blues,STL,nhl,#002f87,#fcb514,#041e42
+Tampa Bay Lightning,T.B,nhl,#002868,,
+Toronto Maple Leafs,TOR,nhl,#00205b,,
+Vancouver Canucks,VAN,nhl,#00205b,#00843d,#99999A
+Vegas Golden Knights,VGK,nhl,#b4975a,#333f42,#c8102e
+Washington Capitals,WSH,nhl,#c8102E,#041e42,
+Winnipeg Jets,WPG,nhl,#041e42,#004c97,#ac162C
+Boston Pride,BOS,nwhl,#FEC52e,#000000,#9E9791
+Buffalo Beauts,BUF,nwhl,#71b4df,#000000,#ffffff
+Minnesota Whitecaps,MIN,nwhl,#163b8a,#000000,
+Metropolitan Rivetors,MET,nwhl,#d62d34,#26324c,#00609c
+Conneticut Whale,CNT,nwhl,#11814c,#03277D,#FFFFFF
+Australia,AUS,iihf,#0f6311,#e6b72b,#FFFFFF
+Austria,AUT,iihf,#ea2c3f,#ffffff,#000000
+Belarus,BLR,iihf,#fc0d1b,#Ffffff,#0f7f12
+Belgium,BEL,iihf,#000000,#fee74a,#fc172d
+Bosnia and Herzegovina,BIH,iihf,#053385,#fed530,
+Bulgaria,BUL,iihf,#e50b1e,#ffffff,#158f38
+Canada,CAN,iihf,#e21e3c,#FFFFFF,#000000
+China,CHN,iihf,#d80a1c,#eadb4e,#ffffff
+Chinese Taipei,TPE,iihf,#020c7e,#ca0813,#ffffff
+Croatia,CRO,iihf,#b12825,#052870,#ffffff
+CzechRepublic,CZE,iihf,#d51924,#15467c,#ffffff
+Denmark,DEN,iihf,#ce1337,#ffffff,
+Estonia,PRK,iihf,#1174cb,#000000,#ffffff
+Finland,FIN,iihf,#084c96,#022348,#e9ae2d
+France,FRA,iihf,#0b57a2,#ec433c,#ffffff
+Georgia,GEO,iihf,#fc0d1b,#ffffff,
+Germany,GER,iihf,#fecb2e,#fc0d1b,#000000
+Great Britain,GBR,iihf,#04277b,#cd1931,#FFFFFF
+Hong Kong,HKG,iihf,#fc0d1b,#FFFFFF,
+Hungary,HUN,iihf,#fc0d1b,#0f7f12,#ffffff
+Iceland,ISL,iihf,#0c4edc,#fc171b,#ffffff
+India,IND,iihf,#030e88,#fd8c25,#1c8718
+Ireland,IRL,iihf,#0f7f12,#fd8023,#ffffff
+Israel,ISR,iihf,#3e78c1,#808a8c,#ffffff
+Italy,ITA,iihf,#0e68b9,#020c7e,#ffffff
+Japan,JPN,iihf,#000000,#fc0d1b,#ffffff
+Kazakhstan,KAZ,iihf,#0f69c9,#feca30,#ffffff
+Kuwait,KUW,iihf,#0b24fb,#fc0d1b,#ffffff
+Latvia,LAT,iihf,#7e0308,#ffffff,
+Lithuania,LTU,iihf,#e21d3c,#fed530,#000000
+Luxembourg,LUX,iihf,#982015,#414ea5,#ffffff
+Mexico,MEX,iihf,#264138,#58292d,#000000
+Mongolia,MGL,iihf,#0e68b1,#d82437,#fed330
+Netherlands,NED,iihf,#fc6020,#094581,#ffffff
+New Zealand,NZL,iihf,#000000,#ffffff,
+North Korea,PRK,iihf,#ea2130,#0a489f,#ffffff
+Norway,NOR,iihf,#ec2e35,#0918b1,#ffffff
+Poland,POL,iihf,#da1a40,#ffffff,
+Qatar,QAT,iihf,#8b1d3e,#ffffff,
+Romania,ROM,iihf,#042e7d,#cc162c,#fbd035
+Russia,RUS,iihf,#b12825,#0f3e7f,#ffffff
+Serbia,SRB,iihf,#b12825,#0f3e7f,#ffffff
+Slovakia,SVK,iihf,#0f3e7f,#b12825,#ffffff
+Slovenia,SLO,iihf,#0b24fb,#0f7f12,#ffffff
+South Africa,RSA,iihf,#126a38,#fed530,#ffffff
+South Korea,KOR,iihf,#314a8e,#cb303e,#ffffff
+Spain,ESP,iihf,#0921ec,#a81821,#f0be2b
+Sweden,SWE,iihf,#fbd035,#0b5c97,
+Switzerland,SUI,iihf,#d62118,#ffffff,#000000
+Thailand,THA,iihf,#1a1d6e,#890309,#000000
+Turkey,TUR,iihf,#e01223,#ffffff,
+Turkmenistan,TKM,iihf,#044325,#19ab48,
+Ukraine,UKR,iihf,#1075ba,#feed35,
+United Arab Emirates,UAE,iihf,#ca0813,#149717,
+United States,USA,iihf,#032a66,#bd1134,#ffffff

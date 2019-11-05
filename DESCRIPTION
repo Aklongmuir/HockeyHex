@@ -1,0 +1,11 @@
+Package: HockeyHex
+Type: Package
+Title: Hex colours for professional and national hockey teams. 
+Version: 0.1.0
+Author: Alyssa Longmuir
+Maintainer: aklongmuir@gmail.com>
+Description: Contains primary, secondary and tertiary colours for nhl & nwhl teams as well as iihf recognised countries. 
+This can be useful in creating data graphics that are themed for particular teams.
+License: CC0
+Encoding: UTF-8
+LazyData: true
